@@ -11,6 +11,6 @@ hyprland waybar wofi swaync hyprshot hyprlock hypridle hyprpaper xdg-desktop-por
 network-manager-applet otf-font-awesome bluez bluez-utils bluetui blueman veracrypt pipewire-pulse pavucontrol \
 dolphin kate firefox thunderbird code vlc vlc-plugins-all \
 qalculate-qt libreoffice-still xournalpp \
-yubikey-manager pam-u2f nextcloud
+yubikey-manager pam-u2f nextcloud-client
 
 echo 'done'
