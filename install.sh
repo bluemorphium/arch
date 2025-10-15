@@ -8,7 +8,7 @@ kitty curl wget git fastfetch btop htop networkmanager fzf tmux \
 man-db openssh vsftpd mtr usbutils lshw \
 dysk yazi fwupd wireguard-tools \
 hyprland waybar wofi swaync hyprshot hyprlock hypridle hyprpaper \
-xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk xdg-desktop-portal-wlr archlinux-xdg-menu \
+xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk xdg-desktop-portal-wlr archlinux-xdg-menu kde-cli-tools \
 network-manager-applet otf-font-awesome bluez bluez-utils bluetui blueman veracrypt pipewire-pulse pavucontrol \
 dolphin kate firefox thunderbird code vlc vlc-plugins-all \
 qalculate-qt libreoffice-still xournalpp \
