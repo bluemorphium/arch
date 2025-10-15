@@ -3,7 +3,7 @@
 
 echo 'starting to install programs'
 
-sudo pacman -S --needed \
+sudo pacman -S --needed --noconfirm \
 kitty curl wget git fastfetch btop htop networkmanager fzf tmux \
 man-db openssh vsftpd mtr usbutils lshw \
 dysk yazi fwupd wireguard-tools \
