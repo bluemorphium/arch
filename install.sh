@@ -5,7 +5,7 @@ echo 'starting to install programs'
 
 sudo pacman -S --needed --noconfirm \
 kitty curl wget git fastfetch btop htop networkmanager fzf tmux \
-man-db openssh vsftpd mtr usbutils lshw \
+man-db openssh vsftpd mtr usbutils lshw nfs-utils \
 dysk yazi fwupd wireguard-tools \
 hyprland waybar wofi swaync hyprshot hyprlock hypridle hyprpaper \
 xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk xdg-desktop-portal-wlr archlinux-xdg-menu kde-cli-tools \
