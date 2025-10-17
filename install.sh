@@ -8,7 +8,7 @@ dysk yazi ncdu rsync fwupd wireguard-tools dmidecode \
 hyprland waybar wofi swaync hyprshot hyprlock hypridle hyprpaper otf-font-awesome \
 xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk xdg-desktop-portal-wlr archlinux-xdg-menu kde-cli-tools \
 network-manager-applet bluez bluez-utils bluetui blueman pipewire-pulse pavucontrol \
-dolphin kate firefox thunderbird veracrypt code vlc vlc-plugins-all \
+dolphin kate firefox thunderbird gimp veracrypt code vlc vlc-plugins-all \
 qalculate-qt libreoffice-still xournalpp
 
 echo 'starting to install UIniKo programs'
