@@ -13,7 +13,7 @@ qalculate-qt libreoffice-still xournalpp
 
 echo 'starting to install UIniKo programs'
 sudo pacman -S --needed --noconfirm \
-mattermost-desktop yubikey-manager pam-u2f nextcloud-client
+mattermost-desktop cups yubikey-manager pam-u2f nextcloud-client
 
 echo 'starting to install Qemu programs'
 sudo pacman -S --needed --noconfirm \
