@@ -5,7 +5,7 @@ echo 'starting to install Main programs'
 sudo pacman -S --needed --noconfirm \
 kitty curl wget git fastfetch btop htop powertop networkmanager fzf tmux screen picocom \
 man-db openssh vsftpd mtr usbutils lshw nfs-utils \
-dysk yazi ncdu rsync fwupd wireguard-tools \
+dysk yazi ncdu rsync fwupd wireguard-tools dmidecode \
 hyprland waybar wofi swaync hyprshot hyprlock hypridle hyprpaper otf-font-awesome \
 xdg-desktop-portal xdg-desktop-portal-hyprland xdg-desktop-portal-gtk xdg-desktop-portal-wlr archlinux-xdg-menu kde-cli-tools \
 network-manager-applet bluez bluez-utils bluetui blueman pipewire-pulse pavucontrol \
